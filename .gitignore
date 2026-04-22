@@ -1,0 +1,12 @@
+# Compiled files
+bin/
+obj/
+*.out
+*.exe
+*.class
+
+# Mac system files
+.DS_Storey
+
+
+
