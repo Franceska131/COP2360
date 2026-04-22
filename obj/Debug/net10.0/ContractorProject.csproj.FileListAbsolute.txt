@@ -1,0 +1,15 @@
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/bin/Debug/net10.0/ContractorProject
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/bin/Debug/net10.0/ContractorProject.deps.json
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/bin/Debug/net10.0/ContractorProject.runtimeconfig.json
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/bin/Debug/net10.0/ContractorProject.dll
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/bin/Debug/net10.0/ContractorProject.pdb
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/obj/Debug/net10.0/ContractorProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/obj/Debug/net10.0/ContractorProject.AssemblyInfoInputs.cache
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/obj/Debug/net10.0/ContractorProject.AssemblyInfo.cs
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/obj/Debug/net10.0/ContractorProject.csproj.CoreCompileInputs.cache
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/obj/Debug/net10.0/ContractorProject.sourcelink.json
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/obj/Debug/net10.0/ContractorProject.dll
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/obj/Debug/net10.0/refint/ContractorProject.dll
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/obj/Debug/net10.0/ContractorProject.pdb
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/obj/Debug/net10.0/ContractorProject.genruntimeconfig.cache
+/Users/sashafrancois/Desktop/Module7GP/COP2360-2/ContractorProject/obj/Debug/net10.0/ref/ContractorProject.dll
